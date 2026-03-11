@@ -1,0 +1,109 @@
+{
+    "Endgame": {
+        "Raids": {
+            "max_players": 8,
+            "options": ["Dark Hours", "Iron Horse"],
+            "custom_description": true
+        },
+        "Incursions": {
+            "max_players": 4,
+            "options": ["Paradise Lost"],
+            "custom_description": true
+        },
+        "Summit": {
+            "max_players": 4,
+            "custom_description": true
+        },
+        "Descent": {
+            "max_players": 4,
+            "custom_description": true
+        }
+    },
+
+    "PvE": {
+        "Missions": {
+            "max_players": 4,
+            "custom_description": true,
+            "description_prompt": "Which mission?"
+        },
+        "Strongholds": {
+            "max_players": 4,
+            "options": ["District Union Arena",
+                "Roosevelt Island",
+                "Capitol Building",
+                "Tidal Basin",
+                "Manning National Zoo"],
+            "custom_description": true
+        },
+        "Control Points": {
+            "max_players": 4,
+            "custom_description": true
+        },
+        "Bounties": {
+            "max_players": 4,
+            "custom_description": true
+        },
+        "Manhunts":{
+            "max_players": 4,
+            "options": ["Shadow Tide - Jupiter",
+                "Keener's Legacy - Hornet",
+                "Concealed Agenda - Bardon Schaeffer",
+                "End of Watch - Faye Lau",
+                "Hidden Alliance - Captain Lewis",
+                "Price of Power - General Anderson",
+                "Reign of Fire - Stovepipe",
+                "Broken Wings - Mari Singh",
+                "Puppeteers - The Recruiter",
+                "Vanguard - Agent Kelso",
+                "First Rogue - Aaron Keener",
+                "Shades of Red - Theo Parnell",
+                "Burden of Truth - Alani Kelso",
+                "Crossroads - The Manager",
+                "The Pact - The Summit",
+                "Mutiny - General Anderson"],
+            "custom_description": true
+        },
+        "Expeditions": {
+            "max_players": 4,
+            "options": ["Kenly College"],
+            "custom_description": true
+        }
+    },
+
+    "PvP": {
+        "Conflict": {
+            "max_players": 8,
+            "custom_description": true
+        },
+        "Dark Zone": {
+            "max_players": 4,
+            "custom_description": true
+        }
+    },
+
+    "Clan": {
+        "Clan Projects": {
+            "max_players": 4,
+            "custom_description": true
+        },
+        "Clan Bounties": {
+            "max_players": 4,
+            "custom_description": true
+        }
+    },
+
+    "Collections": {
+        "Hunter Masks": {
+            "max_players": 4,
+            "custom_description": true
+        },
+        "Commendations (4 Player)": {
+            "max_players": 4,
+            "custom_description": true
+        },
+        "Commendations (8 Player)": {
+            "max_players": 8,
+            "custom_description": true
+        }
+    }
+}
